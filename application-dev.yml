@@ -1,1 +1,6 @@
-
+mysql:
+  user: leikaic
+ 
+person:
+  name: qidian
+ 
